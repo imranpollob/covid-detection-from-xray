@@ -1,4 +1,4 @@
-# Detect COVID-19 from X-RAY using PyTorch
+# Detect COVID-19 from X-RAY
 
 In this project we will train a model that will help us to identify X-RAY images that are affected with COVID-19. We will use PyTorch as out deep learning framework. We utilizes CNN to 
 
